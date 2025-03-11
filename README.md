@@ -1,4 +1,4 @@
-# Apple II PREH-Commnader Keyboard Restauration Project
+# Apple II PREH-Commnader Keyboard Rescue
 
 APPLE II forever! 
 
